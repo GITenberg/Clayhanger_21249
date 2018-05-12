@@ -22,6 +22,8 @@ description: "The Clayhanger Family is a series of novels by Arnold Bennett, pub
   \ district that merged into the borough (later city) of Stoke-on-Trent. Buildings\
   \ described in the novels are still identifiable in Burslem, the basis for the fictional\
   \ town of \"Bursley\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21249#Clayhanger
 gutenberg_issued: '2007-04-28'
 gutenberg_type: Text
 identifiers:
